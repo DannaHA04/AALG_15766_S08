@@ -22,3 +22,4 @@ def sumaLista(arr):
 lista1 = []
 g = sumaLista(lista1)
 print(g)
+
